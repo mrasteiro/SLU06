@@ -3,4 +3,10 @@ Milk
 Bread
 Butter
 Your mum wants eggs to make a pudding! ;)
+<<<<<<< Updated upstream
 Wine
+=======
+Apples
+Milk
+Bread
+>>>>>>> Stashed changes
